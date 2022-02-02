@@ -1,1 +1,1 @@
-# book-store
+# Book Store App using PHP and MySQL
